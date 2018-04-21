@@ -18,7 +18,6 @@ Table of Contents
 
 * [Conclusion](#conclusion)
 
-
 <a name="overview"></a>
 # 1. Overview
 
@@ -39,6 +38,9 @@ In this Lab, you will experience:
 
 **Important:** Many of the steps in this lab involve resolving errors that have been built in to the provided starter files (in step 17). This approach will show how the IDE can be used to develop, test and deploy serverless applications.
 
+Follow along Workshop on Building a Serverless App from AWS on www.twitch.tv:
+
+<iframe src="https://player.twitch.tv/?autoplay=false&t=00h04m28s&video=v249589422" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/videos/249589422?t=00h04m28s&tt_content=text_link&tt_medium=vod_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Serverless Bytes</a>
 
 <a name="intro"></a>
 # 2. Introduction

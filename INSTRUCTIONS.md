@@ -18,11 +18,11 @@ Table of Contents
 
 * [Conclusion](#conclusion)
 
-![https://www.twitch.tv/videos/249589422?t=00h04m28s](images/twitch.png)
-Follow along at [Serverless Bytes | Building a Serverless App](https://www.twitch.tv/videos/249589422?t=00h04m28s) on Twitch.
-
 <a name="overview"></a>
 # 1. Overview
+
+![https://www.twitch.tv/videos/249589422?t=00h04m28s](images/twitch.png)
+Follow along at [Serverless Bytes | Building a Serverless App](https://www.twitch.tv/videos/249589422?t=00h04m28s) on Twitch.
 
 With services like AWS CodeStar, AWS Cloud9, AWS Lambda and Amazon API Gateway, developers can very easily develop, debug, and deploy serverless applications in the cloud.
 

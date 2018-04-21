@@ -12,7 +12,7 @@ Table of Contents
 
 * [Deploying Your Function using AWS SAM and AWS CodeDeploy](#sam)
 
-* [Debugging and Monitoring your function](#debug)
+* [Debugging and Monitoring your function](#debugging-and-monitoring-your-function)
 
 * [Clean up](#cleanup)
 
@@ -130,7 +130,7 @@ user:~/environment $
 ```
 cd serverless-lab
 wget https://s3-us-west-2.amazonaws.com/apn-bootcamps/serverless-2018/addservice-01.tar.gz
-tar xf addservice-01.tar.gz
+tar xzf addservice-01.tar.gz
 rm addservice-01.tar.gz
 ```
 
